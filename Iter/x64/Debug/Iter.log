@@ -1,0 +1,4 @@
+﻿  Iter.cpp
+     Creating library D:\A_univer\АП\code\Lab_7.1\x64\Debug\Iter.lib and object D:\A_univer\АП\code\Lab_7.1\x64\Debug\Iter.exp
+Iter.obj : error LNK2019: unresolved external symbol "void __cdecl Calc(int * *,int,int,int &,int &)" (?Calc@@YAXPEAPEAHHHAEAH1@Z) referenced in function "public: void __cdecl UnitTestProject::CalcFunctionTest::TestCalcFunction(void)" (?TestCalcFunction@CalcFunctionTest@UnitTestProject@@QEAAXXZ)
+D:\A_univer\АП\code\Lab_7.1\x64\Debug\Iter.dll : fatal error LNK1120: 1 unresolved externals
